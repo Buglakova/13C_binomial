@@ -1,0 +1,9 @@
+name: binomial_13c
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.9
+  - numpy>=1.21
+  - ipykernel
+  - matplotlib>=3.5
